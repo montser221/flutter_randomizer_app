@@ -1,4 +1,4 @@
-# myfirstapp
+# Randomizer
 
 A new Flutter project.
 
